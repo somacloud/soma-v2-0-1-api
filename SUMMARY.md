@@ -1,7 +1,6 @@
 # Summary
 
 * [SoMa介绍](README.md)
-* [版权](ban_quan.md)
 * [目录](mu_lu.md)
 * [数据中心](shu_ju_zhong_xin/README.md)
    * [datacenter/list](shu_ju_zhong_xin/datacenterlist.md)
