@@ -1,1 +1,15 @@
 # 目录
+
+   * [swcatalog/list](mu_lu/swcataloglist.md)
+   * [swcatalog/get/{id}](mu_lu/swcatalogget{id}.md)
+   * [swcatalog/delete](mu_lu/swcatalogdelete.md)
+   * [swcatalog/shared](mu_lu/swcatalogshared.md)
+   * [servicecatalog/list](mu_lu/servicecataloglist.md)
+   * [servicecatalog/get/{name}](mu_lu/servicecatalogget{name}.md)
+   * [servicecatalog/getRoleTypes](mu_lu/servicecataloggetroletypes.md)
+   * [servicecatalog/shared](mu_lu/servicecatalogshared.md)
+   * [appcatalog/list](mu_lu/appcataloglist.md)
+   * [appcatalog/get/{name}](mu_lu/appcatalogget{name}.md)
+   * [appcatalog/shared](mu_lu/appcatalogshared.md)
+   * [catalog/download/{type}/{fileName}](mu_lu/catalogdownload{type}{filename}.md)
+   * [catalog/ queryIcon/{catagory}/{typeName}](mu_lu/catalog_queryicon{catagory}{typename}.md)
