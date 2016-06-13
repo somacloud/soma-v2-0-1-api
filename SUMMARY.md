@@ -39,7 +39,6 @@
    * [node/queryCount](zhu_ji/nodequerycount.md)
    * [node/queryNodeDetail](zhu_ji/nodequerynodedetail.md)
    * [node/allocateService](zhu_ji/nodeallocateservice.md)
-   * [node/queryNode2InstallSw（暂时废弃）](zhu_ji/nodequerynode2installswff08_zan_shi_fei_qi_ff09.md)
    * [node/installService](zhu_ji/nodeinstallservice.md)
    * [node/listMigrateNodes](zhu_ji/nodelistmigratenodes.md)
    * [node/hostsmgr](zhu_ji/nodehostsmgr.md)
