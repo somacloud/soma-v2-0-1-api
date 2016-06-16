@@ -46,7 +46,7 @@
 
               // login
               String user = "caipingxin";
-              String pwd = crypt("caipingxin*123");
+              String pwd = crypt("password");
               String param = String.format(USER_JSON, user, pwd);
               String ret = doPost(LOGIN_URL, param);
               JsonParser parser = new JsonParser();
