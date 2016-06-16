@@ -46,7 +46,7 @@ http://127.0.0.1:7681/soma/rest/alarm/list?_=1410921917577
 
 **Request URL:**
 
-http://127.0.0.1:7681/soma/rest/alarm/list?_=1410921917577
+http://127.0.0.1:7681/soma/rest/alarm/count?_=1410921917577
 
 **参数：**{"intervalType":"DAY","resType":0}
 
