@@ -1,13 +1,13 @@
 ## 应用
 
-### monitorApplication/list {#monitorapplication-list}
+### monitorApplication/listByPage {#monitorapplication-listByPage}
 
 **基本信息：**
 
 | 方法描述 | 分页条件查询应用监控 |
 | --- | --- |
 | 请求方法 | POST |
-| API | monitorApplication/list |
+| API | monitorApplication/listByPage |
 | 权限 | 系统管理员 | 是 |
 |  | 租户管理员 | 是 |
 |  | 系统用户 | 是 |
@@ -18,13 +18,13 @@
 
 **Request URL:**
 
-http://127.0.0.1:7681/soma/rest/monitorApplication/list?_=1410921917577
+http://127.0.0.1:7681/soma/rest/monitorApplication/listByPage?_=1410921917577
 
 **参数：**QueryClause qc详细见node/listbypage
 
 **返回值：**Response r详细见node/listbypage
 
-**说明：**r.data是Collection&lt;AppMonitorSystemStatistic&gt;
+**说明：**r.data是Collection&lt;MonitorStatisticVO&gt;
 
 ### monitorApplication/get/{id} {#monitorapplication-get-id}
 
@@ -101,5 +101,3 @@ http://127.0.0.1:7681/soma/rest/monitorApplication/stopReal/{id}?_=1410921917577
 **参数：**String code
 
 **返回值：**Response r详细见node/listbypage
-
-**说明：**r.data是BooleanstartFlag
