@@ -149,6 +149,8 @@
    * [警报](jian_kong/jing_bao.md)
    * [任务](jian_kong/ren_wu.md)
    * [事件](jian_kong/shi_jian.md)
+   * [模板](jian_kong/mu_ban.md)
+   * [平台](jian_kong/ping_tai.md)
 * [系统管理](xi_tong_guan_li/README.md)
    * [account/lock/{code}](xi_tong_guan_li/accountlock{code}.md)
    * [account/unlock/{code}](xi_tong_guan_li/accountunlock{code}.md)
