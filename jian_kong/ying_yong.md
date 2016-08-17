@@ -30,7 +30,7 @@ http://127.0.0.1:7681/soma/rest/monitorApplication/list?_=1410921917577
 
 **基本信息：**
 
-| 方法描述 | 根据编码查询应用监控 |
+| 方法描述 | 根据编码查询应用监控 |   
 | --- | --- |
 | 请求方法 | GET |
 | API | monitorApplication/get/{id} |
